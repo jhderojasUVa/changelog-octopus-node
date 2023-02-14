@@ -1,0 +1,17 @@
+# Release notes
+
+changelog:
+  categories:
+    - title: Breaking Changes
+      label:
+        - breaking-change
+    - title: Features
+      label:
+        - enhancement
+        - feat
+    - title: Fixes
+      label:
+        - fix
+    - title: HotFix
+      label:
+        - hotfix
