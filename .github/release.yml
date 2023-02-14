@@ -3,15 +3,20 @@
 changelog:
   categories:
     - title: Breaking Changes
-      label:
+      labels:
         - breaking-change
+        - "breaking change"
     - title: Features
-      label:
+      labels:
         - enhancement
         - feat
     - title: Fixes
-      label:
+      labels:
         - fix
+        - bug
     - title: HotFix
-      label:
+      labels:
         - hotfix
+    - title: Other
+      labels:
+        - "*"
