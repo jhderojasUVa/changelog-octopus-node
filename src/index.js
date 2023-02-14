@@ -2,6 +2,11 @@
 
 console.log('The loop is comming here. Be careful!');
 
-while (true) {
-    console.log('Hello world');
+let i = 0;
+
+while (i <= 100) {
+    console.log(`Hello world: ${i}`);
+    i++;
 }
+
+console.log('Exiting!');
